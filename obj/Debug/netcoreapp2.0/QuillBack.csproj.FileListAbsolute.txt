@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\QuillBack\bin\Debug\netcoreapp2.0\QuillBack.deps.json
+c:\Users\Administrator\Desktop\QuillBack\bin\Debug\netcoreapp2.0\QuillBack.runtimeconfig.json
+c:\Users\Administrator\Desktop\QuillBack\bin\Debug\netcoreapp2.0\QuillBack.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\QuillBack\bin\Debug\netcoreapp2.0\QuillBack.dll
+c:\Users\Administrator\Desktop\QuillBack\bin\Debug\netcoreapp2.0\QuillBack.pdb
+c:\Users\Administrator\Desktop\QuillBack\obj\Debug\netcoreapp2.0\QuillBack.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\QuillBack\obj\Debug\netcoreapp2.0\QuillBack.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\QuillBack\obj\Debug\netcoreapp2.0\QuillBack.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\QuillBack\obj\Debug\netcoreapp2.0\QuillBack.dll
+c:\Users\Administrator\Desktop\QuillBack\obj\Debug\netcoreapp2.0\QuillBack.pdb
