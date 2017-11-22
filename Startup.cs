@@ -29,8 +29,8 @@ namespace QuillBack
         {
             try
             {
-                services.AddDbContext<ContentContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Default")));
-                services.AddTransient<IContentService, ContentService>();
+                services.AddDbContext<UserContentDetailsContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Default")));
+                services.AddTransient<IUserContentDetailsService, UserContentDetailsService>();
                 services.AddCors();
                 services.AddMvc();
             }
