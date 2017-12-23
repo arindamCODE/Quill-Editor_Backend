@@ -16,7 +16,7 @@ namespace Services
             _context = context;
         }
         public async Task<List<UserContentDetails>> Get()
-        {
+        { 
             return await _context.UserContentDetails.ToListAsync();
         }
         public async Task<List<UserContentDetails>> GetByID(int id)

@@ -20,6 +20,7 @@ namespace QuillBack
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+                 .UseUrls("http://172.23.238.147:5000")
                 .Build();
     }
 }

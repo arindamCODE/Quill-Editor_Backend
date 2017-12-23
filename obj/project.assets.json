@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\QuillBack\\QuillBack.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\QuillBack\\QuillBack.csproj",
       "projectName": "QuillBack",
-      "projectPath": "c:\\Users\\Administrator\\Desktop\\QuillBack\\QuillBack.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\QuillBack\\QuillBack.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Administrator\\Desktop\\QuillBack\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\QuillBack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
